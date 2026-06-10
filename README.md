@@ -11,7 +11,7 @@ MSc candidate in Financial Markets and Intermediaries at Università Cattolica d
 
 ## Publications
 
-- **A Taxonomy of Real-World Asset Tokenization for Blockchain-Based Financial Infrastructure** (2026) — with L. Pennella and M. C. Ballandies. A 23-attribute, system-level taxonomy applied to the 20 largest RWA protocols by market capitalization. <!https://arxiv.org/abs/2606.08534>
+- **A Taxonomy of Real-World Asset Tokenization for Blockchain-Based Financial Infrastructure** (2026) — with L. Pennella and M. C. Ballandies. A 23-attribute, system-level taxonomy applied to the 20 largest RWA protocols by market capitalization. <https://arxiv.org/abs/2606.08534>
   Dataset: [rwa-tokenization-taxonomy](https://github.com/GiorgioVella/rwa-tokenization-taxonomy) <https://github.com/GiorgioVella/rwa-tokenization-taxonomy>
 
 ## Selected articles
@@ -29,8 +29,7 @@ Research notes and explanatory articles written for Blockchain Student Associati
 
 ## Contact
 
-<
 - Email: giorgio.vella01@icatt.it
 - LinkedIn: www.linkedin.com/in/giorgio-vella-67311b272
 - Google Scholar:  
->
+
