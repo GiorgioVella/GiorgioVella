@@ -4,15 +4,15 @@ MSc candidate in Financial Markets and Intermediaries at Università Cattolica d
 
 ## Research interests
 
-- **Real-world asset (RWA) tokenization** — legal wrappers, custody models, redemption mechanics, and the hybrid on-chain/off-chain architectures of deployed protocols.
-- **Tokenized deposits and wholesale CBDC** — commercial bank money on DLT, atomic settlement, and the Eurosystem's Pontes and Appia frameworks.
-- **Prediction markets and arbitrage** — market microstructure, binary-option pricing, oracle resolution, and cross-platform pricing inefficiencies.
-- **Quantitative foundations** — derivatives pricing, risk-neutral valuation, and the no-arbitrage models underlying the above.
+- **Real-world asset (RWA) tokenization** - legal wrappers, custody models, redemption mechanics, and the hybrid on-chain/off-chain architectures of deployed protocols.
+- **Tokenized deposits and wholesale CBDC** - commercial bank money on DLT, atomic settlement, and the Eurosystem's Pontes and Appia frameworks.
+- **Prediction markets and arbitrage** - market microstructure, binary-option pricing, oracle resolution, and cross-platform pricing inefficiencies.
+- **Quantitative foundations** - derivatives pricing, risk-neutral valuation, and the no-arbitrage models underlying the above.
 
 ## Publications
 
-- **A Taxonomy of Real-World Asset Tokenization for Blockchain-Based Financial Infrastructure** (2026) — with L. Pennella and M. C. Ballandies. A 23-attribute, system-level taxonomy applied to the 20 largest RWA protocols by market capitalization. <https://arxiv.org/abs/2606.08534>
-  Dataset: [rwa-tokenization-taxonomy](https://github.com/GiorgioVella/rwa-tokenization-taxonomy) <https://github.com/GiorgioVella/rwa-tokenization-taxonomy>
+- **A Taxonomy of Real-World Asset Tokenization for Blockchain-Based Financial Infrastructure** (2026), with L. Pennella and M. C. Ballandies. A 23-attribute, system-level taxonomy applied to the 20 largest RWA protocols by market capitalization. <https://arxiv.org/abs/2606.08534>
+  Dataset: [rwa-tokenization-taxonomy](https://github.com/GiorgioVella/rwa-tokenization-taxonomy)
 
 ## Selected articles
 
