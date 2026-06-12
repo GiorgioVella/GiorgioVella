@@ -31,5 +31,5 @@ Research notes and explanatory articles written for Blockchain Student Associati
 
 - Email: giorgio.vella01@icatt.it
 - LinkedIn: www.linkedin.com/in/giorgio-vella-67311b272
-- Google Scholar:  
+- Google Scholar: https://scholar.google.com/citations?user=erFj9uQAAAAJ&hl=en
 
